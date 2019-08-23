@@ -56,6 +56,6 @@ for ax, img, title in zip(axes.ravel(), images[random_id], df['label'][random_id
     plt.tight_layout()
 
 ''' ========================================================================'''
-''' ========== For the rest of the code please get in touch ================'''
-'''======================= yesser@sges.cloud ==============================='''
+''' ========== To learn more about the code please get in touch ============'''
+'''==================== yesser.nasser@icloud.com ==========================='''
 ''' ========================================================================'''
